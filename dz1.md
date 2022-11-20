@@ -2,6 +2,6 @@
 > За любой ночью следует рассвет!
 [markdown wikipedia](https://ru.wikipedia.org/wiki/Markdown)
 ![Markdown](https://www.pngegg.com/ru/png-zmbxe)
-*End task*
+### End task
 ### New information about branches
 # Создание веток:
