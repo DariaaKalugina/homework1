@@ -1,0 +1,15 @@
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\bin\Debug\net7.0\homework1_c#.exe
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\bin\Debug\net7.0\homework1_c#.deps.json
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\bin\Debug\net7.0\homework1_c#.runtimeconfig.json
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\bin\Debug\net7.0\homework1_c#.dll
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\bin\Debug\net7.0\homework1_c#.pdb
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.csproj.AssemblyReference.cache
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.AssemblyInfoInputs.cache
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.AssemblyInfo.cs
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.csproj.CoreCompileInputs.cache
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.dll
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\refint\homework1_c#.dll
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.pdb
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\homework1_c#.genruntimeconfig.cache
+C:\Users\79811\OneDrive\Рабочий стол\task1\homework1_c#\obj\Debug\net7.0\ref\homework1_c#.dll
